@@ -39,5 +39,5 @@ Before running this project, ensure you have:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/pos-system.git
+git clone https://github.com/ikmal3499/SmartPosSystem.git
 cd pos-system
